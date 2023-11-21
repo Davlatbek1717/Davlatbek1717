@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davlatbek1717
-- 👀 I’m interested in chess
+- 👀 I am interested in programming
 - 🌱 I am currently learning Frontend programming
 - 💞️ I want to cooperate with my teacher Keldiyor
 - 📫 I'm going to be programmer
