@@ -4,7 +4,7 @@
 - 💞️ I want to cooperate with my teacher Keldiyor
 - 📫 I'm going to be programmer
 - 😉 I like my teachers
-- 😎 My favourite teacher name is Keldiyor Rakhmatov
+- 😎 My favourite teachers name are Keldiyor Rakhmatov and Shavkatbek Jahongirov
 
 <!---
 Davlatbek1717/Davlatbek1717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
