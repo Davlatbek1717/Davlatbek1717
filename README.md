@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Davlatbek1717
 - 👀 I’m interested in chess
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I am currently learning Frontend programming
+- 💞️ I want to cooperate with my teacher Keldiyor
+- 📫 I'm going to be programmer
+- 😉 I like my teachers
+- 😎 My favourite teacher name is Keldiyor Rakhmatov
 
 <!---
 Davlatbek1717/Davlatbek1717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
